@@ -1,0 +1,155 @@
+body {
+    background-color: #bec6c4;
+    margin: 0;
+}
+
+.top-container {
+    background-color: #56c1dc;
+}
+
+.top-mountain {
+    position: absolute;
+    right: 500px;
+    top: 40px;
+    margin: 0;
+}
+.text {text-align: center;
+    font-family: "Sacramento", cursive;
+    padding-top: 200px;
+    font-size: 1.625rem;
+}
+.cloud {
+    position: absolute;
+    left: 250px;
+}
+.bottom-cloud {
+    margin-top: 100px;
+    margin-left: 400px;
+    border-radius: 30%;
+}
+.Koko-Image {
+    margin-top: 120px;
+    margin-left: 43.5%;
+    border-radius: 30%;
+}
+.Second-text {
+    text-align: center;
+    font-size: 1.2em;
+    font-family: "Montserrat", sans-serif;
+    font-weight: normal;
+}
+p {
+    text-align: center;
+    font-size: 1em;
+}
+.Dot {
+    font-size: 2.4rem;
+    text-align: center;
+    padding: 40px;
+    color: #eaf6f6;
+}
+.Skills {
+    font-size: 2.5em;
+    text-align: center;
+    color: #eaf6f6;
+    padding-top: 40px;
+    font-weight: normal;
+    font-family: "Montserrat", sans-serif;
+}
+.container {
+    display: grid;
+    grid-template-columns: 0.5fr 1fr;
+    grid-template-rows: repeat(1, 1fr);
+    width: 50%;
+    margin: 100px auto 0 auto;
+    text-align: left;
+    row-gap: 2rem;
+}
+.content h3 {
+    font-size: 1.2em;
+    color: #11999e;
+    font-family: "Montserrat", sans-serif;
+}
+.content p {
+    display: block;
+    color: #40514e;
+    font-family: "Merriweather", serif;
+    line-height: 1.6;
+    font-size: 1.2em;
+    text-align: left;
+}
+.wings h3 {
+    font-size: 1.2em;
+    color: #11999e;
+    font-family: "Montserrat", sans-serif;
+}
+.wings p {
+    display: block;
+    color: #40514e;
+    font-family: "Merriweather", serif;
+    line-height: 1.6;
+    font-size: 1.2em;
+    text-align: left;
+}
+.chilli-pepper {
+    margin-left: 30px;
+}
+.Touch {
+    text-align: center;
+}
+.Touch h1 {
+    padding: 20px;
+    font-size: 2.5em;
+    color: #66bfbf;
+    font-weight: normal;
+    font-family: "Montserrat", sans-serif;
+}
+.Touch h3 {
+    font-size: 1.2em;
+    color: #11999e;
+    font-family: "Montserrat", sans-serif;
+}
+.Touch p {
+    display: block;
+    color: #40514e;
+    font-family: "Merriweather", serif;
+    line-height: 1.6;
+    font-size: 1.2em;
+    margin-top: 10px;
+    margin-bottom: 60px;
+}
+.btn {
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    font-size: 20px;
+    font-family: "Montserrat", sans-serif;
+    background-color: #11999e;
+    border-radius: 8px;
+    color: white;
+    padding: 10px 20px 10px 20px;
+    margin-top: 100px;
+    margin-left: 630px;
+    text-decoration: none;
+}
+.myfoot {
+    margin-top: 80px;
+    background-color: #66bfbf;
+    text-align: center;
+    word-spacing: 50px;
+    padding-top: 50px;
+    padding-bottom: 80px;
+}
+
+.myfoot a {
+    text-decoration: none;
+    color: #11999e; 
+}
+.myfoot a:hover {
+    color: white;
+}
+.myfoot p {
+    word-spacing: normal;
+    color: white;
+}
+
+
+
